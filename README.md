@@ -22,7 +22,7 @@ docker-compose up
 
 ## Development ##
 
-To contiunue developing this program you will need to know a little bit about ReactJS and ExpressJS. I would recommend looking at "./frontend/src/App.js" if you are looking to change the frontend and "./backend/index.js" if you are looking to modify the backend.
+To continue developing this program you will need to know a little about ReactJS and ExpressJS. I would recommend looking at "./frontend/src/App.js" if you are looking to change the frontend and "./backend/index.js" if you are looking to modify the backend.
 
 As you develop your program, you might have to make changes to the respective frontend and backend Dockerfiles to install new dependencies.
 
