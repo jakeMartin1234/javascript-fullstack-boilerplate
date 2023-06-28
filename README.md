@@ -1,6 +1,6 @@
 # Fullstack Javascript Server Boilerplate #
 
-This is a simple, ready to go Javascript boilerplate which is runnable through both npm and docker.
+This is a simple, ready-to-go Javascript boilerplate which is runnable through both npm and docker.
 
 ## Setup ##
 
