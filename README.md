@@ -14,7 +14,7 @@ git clone git@github.com:jakeMartin1234/fullstack-javascript-boilerplate.git
 docker-compose up --build
 ```
 - The Docker server needs to be rebuilt every time you make changes to the project.
-- If the Docker containers are already built, you can deploy the server with the following command:
+- If the Docker containers are already built, you can start running the containers with the following command:
 ```angular2html
 docker-compose up
 ```
