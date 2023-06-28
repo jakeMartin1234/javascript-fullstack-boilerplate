@@ -11,6 +11,7 @@ git clone git@github.com:jakeMartin1234/fullstack-javascript-boilerplate.git
 ```angular2html
 docker-compose up --build
 ```
+- To gain access to the frontend, navigate to http://localhost:3000 in your browser.
 - The Docker server needs to be rebuilt every time you make changes to the project.
 - If the Docker containers are already built, you can deploy the server with the following command:
 ```angular2html
